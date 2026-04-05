@@ -50,7 +50,7 @@ export default function LandingPage() {
           id: "contact",
         },
       ]}
-      brandName="Gujarat Grills"
+      brandName="Elite invisible Grill and railing"
     />
   </div>
 
@@ -81,11 +81,11 @@ export default function LandingPage() {
           imageAlt: "Close up of high-strength wire",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/serious-young-blonde-lady-walking-outdoors_171337-19440.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775388176029-grmnrz8r.jpg",
           imageAlt: "Terrace with invisible grills",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/foosball-table-soccer-game-recreation-leisure_53876-26372.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775388763210-sm8v6mp5.jpg",
           imageAlt: "Installation components",
         },
         {
@@ -272,7 +272,7 @@ export default function LandingPage() {
       background={{
         variant: "rotated-rays-animated",
       }}
-      text="Ready to secure your home? Call us for a free quote: 9537836352. We serve all over Gujarat."
+      text="Ready to secure your home? Call us for a free quote: 9274736352. We serve all over Gujarat."
       buttons={[
         {
           text: "Call Now: 9537836352",
@@ -322,7 +322,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoText="Gujarat Grills"
+      logoText="Elite invisible Grills"
     />
   </div>
       </ReactLenis>
