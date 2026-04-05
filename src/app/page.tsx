@@ -168,7 +168,7 @@ export default function LandingPage() {
           name: "Corrosion Resistant Bolts",
           price: "Durable",
           variant: "Weather-proof",
-          imageSrc: "http://img.b2bpic.net/free-photo/kitchen-cabinet-samples-shelf-with-reflective-surface-display-modern-furniture-material-concept_169016-71969.jpg?_wi=3",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775393333746-28yzpfum.jpg",
         },
         {
           id: "m6",
