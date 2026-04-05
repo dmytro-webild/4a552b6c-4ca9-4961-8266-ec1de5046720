@@ -69,11 +69,11 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-minimal-background-with-floor_23-2149207705.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775389998133-d80ia0ad.jpg",
           imageAlt: "Modern balcony with invisible grills",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/metallic-background-old-stainless-wall_23-2148744338.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775389953904-xh4y7sfu.jpg",
           imageAlt: "Safety wire mesh railing",
         },
         {
@@ -89,7 +89,7 @@ export default function LandingPage() {
           imageAlt: "Installation components",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-female-performer-dancing-abandoned-building-stairs_23-2149344098.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775390033642-no9k9lwc.jpg",
           imageAlt: "Building view with transparent railing",
         },
       ]}
