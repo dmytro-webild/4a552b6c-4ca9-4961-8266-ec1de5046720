@@ -140,7 +140,7 @@ export default function LandingPage() {
           name: "High-Grade 316 Stainless Steel Wire",
           price: "Heavy-duty",
           variant: "Industry standard for longevity",
-          imageSrc: "http://img.b2bpic.net/free-photo/grey-black-leather-cotton-texture-background_74190-9226.jpg?_wi=2",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775392637129-7e43p6sr.jpg",
         },
         {
           id: "m2",
