@@ -85,7 +85,7 @@ export default function LandingPage() {
           imageAlt: "Terrace with invisible grills",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775388763210-sm8v6mp5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775393725911-7a9gcgc3.jpg",
           imageAlt: "Installation components",
         },
         {
