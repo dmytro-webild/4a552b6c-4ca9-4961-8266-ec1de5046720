@@ -175,7 +175,7 @@ export default function LandingPage() {
           name: "Custom Tensioners",
           price: "Precision",
           variant: "Maintain stability",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-texture-cream_23-2149409626.jpg?_wi=3",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775393480891-klojvn7x.jpg",
         },
       ]}
       title="Precision Materials"
