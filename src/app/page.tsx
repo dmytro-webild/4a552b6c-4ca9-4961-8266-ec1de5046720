@@ -161,7 +161,7 @@ export default function LandingPage() {
           name: "Premium Installation Kit",
           price: "Complete",
           variant: "All hardware included",
-          imageSrc: "http://img.b2bpic.net/free-photo/grey-black-leather-cotton-texture-background_74190-9226.jpg?_wi=3",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775393193379-3rvy28ux.jpg",
         },
         {
           id: "m5",
