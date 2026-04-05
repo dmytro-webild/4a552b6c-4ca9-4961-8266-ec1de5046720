@@ -77,7 +77,7 @@ export default function LandingPage() {
           imageAlt: "Safety wire mesh railing",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/fence-near-tennis-courts-daytime_181624-22993.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775391774190-522pllh6.jpg",
           imageAlt: "Close up of high-strength wire",
         },
         {
@@ -106,7 +106,7 @@ export default function LandingPage() {
           title: "Child & Pet Safety",
           subtitle: "Total Peace of Mind",
           description: "Prevent accidents with our high-tension wire systems that act as a secure barrier.",
-          imageSrc: "http://img.b2bpic.net/free-photo/grey-black-leather-cotton-texture-background_74190-9226.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775392021682-1m5mkgs9.jpg",
         },
         {
           tag: "View",
