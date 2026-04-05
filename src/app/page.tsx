@@ -69,7 +69,7 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775389998133-d80ia0ad.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bvf25ktmAxQ2Lg40lMtoj7aH3x/uploaded-1775393874451-9wkk38gr.webp",
           imageAlt: "Modern balcony with invisible grills",
         },
         {
